@@ -2,9 +2,6 @@
 ### _Senior Software Engineer & Java developer_
 ![](banner.png)
 
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
-
 I'm a professional software engineer with over 12 years of experience working in multinational companies, and an additional 13</br> 
 years in the Argentinean IT industry across various domains.
 
