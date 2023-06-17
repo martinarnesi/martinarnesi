@@ -23,6 +23,8 @@ never fails to inspire me.
 
 In 2021, I made a life-changing move from my hometown of Rosario, Argentina to Valencia, Spain, along with my family.
 
+## Here's my professional profile:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marnesi/)
 
 ## Tecnologies I know:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
