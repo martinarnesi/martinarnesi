@@ -5,15 +5,10 @@
 I'm a professional software engineer with over 12 years of experience working in multinational companies, and an additional 13</br> 
 years in the Argentinean IT industry across various domains.
 
-I've been fortunate enough to collaborate with diverse, international teams in Europe, Asia, USA, and Latin America. Since 2010</br>
-I've had the opportunity to work with Fortune 500 giants like Hewlett Packard General Motors, Capgemini, and Luxoft. Additionally,</br>
-I've provided consulting expertise to software factories and systems companies such as Neoris, Velocity Partners, Endava </br>
-and ATSistemas.
-
 I genuinely enjoy what I do, and I can't imagine myself doing anything else in life. Ever since I first laid my hands on a CZ Spectrum</br>
 home computer, followed by a Chinese clone PC with a 286 CPU and a monochrome monitor, my passion has remained the same: </br>
 
-_"Expressing my ideas through code and commands, speaking the language of machines via a keyboard"_ 
+_"Conveying my thoughts through code and commands, talk with machines using a keyboard and mouse."_ 
 
 I'm an avid and addicted gamer, particularly fond of FPS and strategy games. I always find ways to </br>
 incorporate this passion into my life. I also have a deep interest in astrophysics, ancient history, </br>
