@@ -1,14 +1,12 @@
 # ![https://www.linkedin.com/in/marnesi/](me_transparent_small.png) Hi there! My name is Martin Arnesi👋
-### _Senior Software Engineer & Java developer_
+### _Senior Software Engineer
 ![](banner.png)
 
-I'm a professional software engineer with over 12 years of experience working in multinational companies, and an additional 13</br> 
-years in the Argentinean IT industry across various domains.
+I'm a software engineer with over 15 years of experience working in multinational companies, </br> 
+and plus another 13 years in the Argentinean IT scene, dabbling in all sorts of projects.
 
-I genuinely enjoy what I do, and I can't imagine myself doing anything else in life. Ever since I first laid my hands on a CZ Spectrum</br>
-home computer, followed by a Chinese clone PC with a 286 CPU and a monochrome monitor, my passion has remained the same: </br>
-
-_"Conveying my thoughts through code and commands, talk with machines using a keyboard and mouse."_ 
+I love what I do and can't see myself doing anything else. Ever since I got my hands on a ZX Spectrum </br>
+and later a PC XT 8086 CPU and a monochrome ambar monitor, my passion has stayed the same...
 
 I'm an avid and addicted gamer, particularly fond of FPS and strategy games. I always find ways to </br>
 incorporate this passion into my life. I also have a deep interest in astrophysics, ancient history, </br>
@@ -16,7 +14,8 @@ science fiction movies, and related subjects. Reading is one of my favorite past
 playing chess and practicing various forms of art. I'm an ardent admirer of Hans Zimmer's music, which </br>
 never fails to inspire me.
 
-In 2021, I made a life-changing move from my hometown of Rosario, Argentina to Valencia, Spain, along with my family.
+In 2021, I packed up and moved from my hometown Rosario, Argentina to Valencia, Spain with my family. </br>
+It was a game-changer for us...
 
 ## Here's my professional profile:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marnesi/)
