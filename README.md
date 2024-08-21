@@ -1,5 +1,5 @@
 # ![https://www.linkedin.com/in/marnesi/](me_transparent_small.png) Hi there! My name is Martin Arnesi👋
-### _Senior Software Engineer
+### Senior Software Engineer
 ![](banner.png)
 
 I'm a software engineer with over 15 years of experience working in multinational companies, </br> 
