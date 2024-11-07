@@ -77,5 +77,5 @@ _And a handful of extras learned and unlearned over time...ish...._
     <img src="https://m.media-amazon.com/images/I/41AYMsMwvNL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg" alt="Spring in Action" width="150">
 </p>
 
-### And always keep in mind... failure is a possibility!
+### And always remember... Failure is not your enemy, It's your most honest teacher!
 ![fail.gif](fail.gif)
