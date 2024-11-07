@@ -1,6 +1,5 @@
 # ![https://www.linkedin.com/in/marnesi/](me_transparent_small.png) Hi there! My name is Martin Arnesi👋
 ### Senior Software Engineer
-![](banner.png)
 
 I'm a software engineer with over 15 years of experience working in multinational companies, </br> 
 and plus another 13 years in the Argentinean IT scene, dabbling in all sorts of projects.
@@ -77,3 +76,6 @@ _And a handful of extras learned and unlearned over time...ish...._
     <img src="https://m.media-amazon.com/images/I/61-ZAFCWcLL._SX376_BO1,204,203,200_.jpg" alt="Thinking in Java" width="150">
     <img src="https://m.media-amazon.com/images/I/41AYMsMwvNL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg" alt="Spring in Action" width="150">
 </p>
+
+### And always keep in mind... failure is a possibility!
+![fail.gif](fail.gif)
