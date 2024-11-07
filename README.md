@@ -10,7 +10,6 @@ and later a PC XT 8086 CPU and a monochrome amber monitor, my passion has stayed
 I'm an avid and addicted gamer, particularly fond of FPS and strategy games. I always find ways to </br>
 incorporate this passion into my life. I also have a deep interest in astrophysics, ancient history, </br>
 science fiction movies, and related subjects. Reading is one of my favorite pastimes.
-I'm an ardent admirer of Hans Zimmer's music, which </br> never fails to inspire me.
 
 In 2021, I packed up and moved from my hometown Rosario, Argentina to Valencia, Spain with my family. </br>
 It was a game-changer for us...
